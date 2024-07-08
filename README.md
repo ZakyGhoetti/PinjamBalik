@@ -1,4 +1,4 @@
-# Screentalk
+# PinjamBalik
 
 Aplikasi Fungsi Peminjaman dan Pengembalian Buku <br>
 dibuat untuk menyelesaikan proyek akhir mata kuliah Struktur Data TA 2023/2024.
