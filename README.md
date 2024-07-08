@@ -25,7 +25,8 @@ Jangan khawatir, kamu juga bisa <i>book</i> buku yang kamu mau pinjam.
 
 ## Struktur Data
 
-Beberapa teknologi yang dipakai dalam pembuatan PinjamBalik, yaitu:
+PinjamBalik seluruhnya dibuat menggunakan bahasa C++. <br>
+Beberapa struktur data yang dipakai dalam pembuatan PinjamBalik, yaitu:
 
 - Class
 - Vector
