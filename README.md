@@ -44,3 +44,28 @@ Beberapa teknologi yang dipakai dalam pembuatan PinjamBalik, yaitu:
 | Zaima Firoos Likan    | G6401221002   | https://github.com/firooslikan    |
 | Dwiamalina Qurratuain Najla | G6401221040   | https://github.com/najladwiamalina        |
 |Muhammad Adelio Reynard  | G6401221113   | https://github.com/     |
+
+---
+
+## Screenshots
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="Dokumentasi PinjamBalik/Dashboard.png"></td>
+      <td><img src="Dokumentasi PinjamBalik/Katalog Awal PinjamBalik.png"></td>
+    </tr>
+    <tr>
+      <td><img src="Dokumentasi PinjamBalik/Pinjam.png"></td>
+      <td><img src="Dokumentasi PinjamBalik/Details.png"></td>
+    </tr>
+    <tr>
+      <td><img src="Dokumentasi PinjamBalik/Pengembalian.png"></td>
+      <td><img src="Dokumentasi PinjamBalik/Histori.png"></td>
+    </tr>
+    <tr>
+      <td><img src="Dokumentasi PinjamBalik/Booking.png"></td>
+      <td><img src="Dokumentasi PinjamBalik/Detail-booking.png"></td>
+    </tr>
+  </tbody>
+</table>
