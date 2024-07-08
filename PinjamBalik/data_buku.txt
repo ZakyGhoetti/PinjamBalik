@@ -1,0 +1,15 @@
+Bumi;Novel fiksi;10
+Hujan Bulan Juni;Puisi;3
+Kapan Nanti;Kumpulan Cerpen;1
+Doraemon (Vol. 45);Komik;15
+Dr. Slump (Vol. 04);Komik;8
+Laskar Pelangi;Novel fiksi;5
+Six of Crows;Novel Fiksi;3
+The Poppy War;Novel fiksi;2
+Tuesday With Morrie;Novel fiksi;2
+Uzumaki;Komik;4
+Kalkulus Edisi Keempat;Non-fiksi;1
+Sapiens: A Brief History of Humankind;Non-fiksi;1
+Matinya Socrates;Biografi;1
+Majalah Bobo Edisi 50 Tahun;Majalah;1
+How The Best Leaders Lead;Motivasi;1
